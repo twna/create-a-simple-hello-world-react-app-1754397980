@@ -1,0 +1,23 @@
+npx create-react-app my-app
+cd my-app
+npm start
+{
+  "checklist": [
+    {
+      "step": "Ensure Node.js and npm are installed",
+      "checked": false
+    },
+    {
+      "step": "Run npx create-react-app my-app to initialize a new React application",
+      "checked": false
+    },
+    {
+      "step": "Change directory to the new app with cd my-app",
+      "checked": false
+    },
+    {
+      "step": "Start the development server with npm start",
+      "checked": false
+    }
+  ]
+}
