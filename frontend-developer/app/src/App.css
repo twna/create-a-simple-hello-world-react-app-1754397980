@@ -1,0 +1,38 @@
+/* App.css */
+
+.HelloWorld {
+  font-family: 'Arial', sans-serif;
+  color: #333;
+  padding: 20px;
+  border: 1px solid #ddd;
+  margin: 10px;
+  border-radius: 4px;
+  background-color: #f9f9f9;
+  text-align: center;
+}
+
+.HelloWorld h1 {
+  font-size: 2em;
+  margin-bottom: 0.5em;
+}
+
+.HelloWorld p {
+  font-size: 1em;
+  color: #666;
+}
+{
+  "checklist": [
+    {"item": "Font family set to Arial", "completed": true},
+    {"item": "Text color set to #333", "completed": true},
+    {"item": "Padding set to 20px", "completed": true},
+    {"item": "Border set to 1px solid #ddd", "completed": true},
+    {"item": "Margin set to 10px", "completed": true},
+    {"item": "Border-radius set to 4px", "completed": true},
+    {"item": "Background color set to #f9f9f9", "completed": true},
+    {"item": "Text align set to center", "completed": true},
+    {"item": "h1 font size set to 2em", "completed": true},
+    {"item": "h1 margin-bottom set to 0.5em", "completed": true},
+    {"item": "p font size set to 1em", "completed": true},
+    {"item": "p text color set to #666", "completed": true}
+  ]
+}
