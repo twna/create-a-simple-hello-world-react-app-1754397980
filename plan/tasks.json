@@ -1,0 +1,38 @@
+[
+  {
+    "id": "task-1",
+    "agent": "frontend-developer",
+    "description": "Initialize a new React application using Create React App",
+    "file_path": "app/package.json"
+  },
+  {
+    "id": "task-2",
+    "agent": "frontend-developer",
+    "description": "Create a new functional component to display 'Hello World'",
+    "file_path": "app/src/components/HelloWorld.jsx"
+  },
+  {
+    "id": "task-3",
+    "agent": "frontend-developer",
+    "description": "Write a test for the HelloWorld component",
+    "file_path": "app/src/components/HelloWorld.test.js"
+  },
+  {
+    "id": "task-4",
+    "agent": "frontend-developer",
+    "description": "Import the HelloWorld component into the main App component",
+    "file_path": "app/src/App.js"
+  },
+  {
+    "id": "task-5",
+    "agent": "frontend-developer",
+    "description": "Update the App.css file to include styles for the HelloWorld component",
+    "file_path": "app/src/App.css"
+  },
+  {
+    "id": "task-6",
+    "agent": "frontend-developer",
+    "description": "Ensure the application runs correctly by starting the development server",
+    "file_path": "app/README.md"
+  }
+]
